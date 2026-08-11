@@ -29,7 +29,7 @@ The frontend UI was generated with the help of AI, while the backend, API logic 
 
 ### Application
 
-![Product Inventory Tracker](screenshots/app.png)
+![Product Inventory Tracker](screenshots/app1.png)
 
 ### PostgreSQL Database
 
